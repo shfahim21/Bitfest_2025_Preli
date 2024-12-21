@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chocolate Cake",
+    "ingredients": ["Flour", "Sugar", "Cocoa", "Eggs", "Milk"],
+    "instructions": "1. Mix dry ingredients\n2. Add wet ingredients\n3. Bake at 180°C for 30 minutes",
+    "taste": "Sweet",
+    "cuisine": "Dessert",
+    "prepTime": 60,
+    "reviews": ["Perfect for birthdays!", "Rich and moist"]
+  },
+  {
+    "name": "Spaghetti Aglio e Olio",
+    "ingredients": ["Spaghetti", "Olive Oil", "Garlic", "Red Pepper Flakes"],
+    "instructions": "1. Cook pasta\n2. Sauté garlic in oil\n3. Combine and serve",
+    "taste": "Savory",
+    "cuisine": "Italian",
+    "prepTime": 20,
+    "reviews": ["Simple and delicious", "Quick weeknight dinner"]
+  }
+]

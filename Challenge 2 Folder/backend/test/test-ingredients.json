@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Flour",
+    "quantity": "1",
+    "unit": "kg",
+    "expiryDate": "2024-03-15"
+  },
+  {
+    "name": "Sugar",
+    "quantity": "500",
+    "unit": "grams",
+    "expiryDate": "2024-03-01"
+  },
+  {
+    "name": "Eggs",
+    "quantity": "12",
+    "unit": "pieces",
+    "expiryDate": "2024-02-28"
+  }
+]

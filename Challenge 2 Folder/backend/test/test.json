@@ -1,0 +1,8 @@
+{
+  "name": "Simple Pasta",
+  "ingredients": ["Pasta", "Olive Oil", "Garlic", "Salt"],
+  "instructions": "1. Boil pasta\n2. Sauté garlic in olive oil\n3. Mix and serve",
+  "taste": "Savory",
+  "cuisine": "Italian",
+  "prepTime": 20
+}
