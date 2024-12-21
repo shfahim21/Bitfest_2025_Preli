@@ -101,7 +101,7 @@ http://localhost:3000
 - Sample Payload:
 ```json
 {
-  "filePath": "./test/my_fav_recipes.txt"
+  "filePath": "./data/my_fav_recipes.txt"
 }
 ```
 
